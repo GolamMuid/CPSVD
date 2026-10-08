@@ -30,10 +30,6 @@
 
 3. Unzip the zip file.
 
-## Running Scripts
+## Results
 
-1. Go to tests > scripts
-2. Run all the scripts from primevul_s1 > codetbert_dann
-3. Run all the scripts from primevul_s2 > codetbert_dann
-4. Run all the scripts from primevul_s3 > codetbert_dann
-5. Run all the scripts from primevul_s4 > codetbert_dann
+All the results are saved in json format under each scenario in results folder.
