@@ -20,7 +20,7 @@ from imblearn.over_sampling import SMOTE, ADASYN, SVMSMOTE
 COMBINED_FILE = "../../../../../embedding/primevul/codebert/primevul_embedded.jsonl"
 EMB_KEY       = "emb"
 RESULTS_PATH  = "results/adversarial_validation_primevul.json"
-CACHE_DIR     = "results/oversample_cache"
+CACHE_DIR     = "../../../../../embedding/primevul/codebert/oversample_cache"
 SEED          = 42
 N_SPLITS      = 5
 
